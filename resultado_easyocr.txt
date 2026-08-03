@@ -1,0 +1,42 @@
+--- RESULTADOS EASYOCR ---
+
+Imagem: 1.JPG -> Placa: IFA1T95BR
+Imagem: 1.JPG -> Placa: IFA1T95BR
+Imagem: 10.JPG -> Placa: PDU7022BR
+Imagem: 10.JPG -> Placa: PDU7022BR
+Imagem: 11.JPG -> Placa: 0L3U98
+Imagem: 11.JPG -> Placa: 0L3U98
+Imagem: 12.JPG -> Placa: JET7G88BR
+Imagem: 12.JPG -> Placa: JET7G88BR
+Imagem: 13.JPG -> Placa: 8R581ABP882BR
+Imagem: 13.JPG -> Placa: 8R581ABP882BR
+Imagem: 14.JPG -> Placa: PHI8HOOBR
+Imagem: 14.JPG -> Placa: PHI8HOOBR
+Imagem: 15.JPG -> Placa: THYZBR
+Imagem: 15.JPG -> Placa: THYZBR
+Imagem: 16.JPG -> Placa: UHKS055BR
+Imagem: 16.JPG -> Placa: UHKS055BR
+Imagem: 17.JPG -> Placa: NZQ3M77BR
+Imagem: 17.JPG -> Placa: NZQ3M77BR
+Imagem: 18.JPG -> Placa: 
+Imagem: 18.JPG -> Placa: 
+Imagem: 19.JPG -> Placa: BRASILESIIWEBR
+Imagem: 19.JPG -> Placa: BRASILESIIWEBR
+Imagem: 2.JPG -> Placa: NVEBBR
+Imagem: 2.JPG -> Placa: NVEBBR
+Imagem: 20.JPG -> Placa: BR51115F22Z
+Imagem: 20.JPG -> Placa: BR51115F22Z
+Imagem: 3.JPG -> Placa: 
+Imagem: 3.JPG -> Placa: 
+Imagem: 4.JPG -> Placa: QOWSNLZ
+Imagem: 4.JPG -> Placa: QOWSNLZ
+Imagem: 5.JPG -> Placa: SI2L
+Imagem: 5.JPG -> Placa: SI2L
+Imagem: 6.JPG -> Placa: 
+Imagem: 6.JPG -> Placa: 
+Imagem: 7.JPG -> Placa: 5X22395BR
+Imagem: 7.JPG -> Placa: 5X22395BR
+Imagem: 8.JPG -> Placa: BRASILKRNCOSUXHY6U29BR
+Imagem: 8.JPG -> Placa: BRASILKRNCOSUXHY6U29BR
+Imagem: 9.JPG -> Placa: AOA4J16BR
+Imagem: 9.JPG -> Placa: AOA4J16BR
